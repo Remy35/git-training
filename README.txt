@@ -3,3 +3,4 @@ Les premières idées du projet sont présentes et vont évoluer au fur et à mesure.
 L'objectif principal est de mettre en place et gérer les premiers événements de ce dépot git.
 
 Les taches a effectuer sont dans TODO.txt
+
